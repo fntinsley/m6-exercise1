@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to right, #a8edea, #fed6e3);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#article-2, #article-3{display:none;}
+#article-1{display:block !important;}
+
+.header {
+    font-family: 'Lobster', cursive;
+    background-color: rgba(0, 102, 204, 0.8);
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#content-news {
+    font-family: 'Open Sans', serif;
+    color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    line-height: 1.6;
+}
+
+#content-story {
+    font-family:'Times New Roman', Times, serif;
+    color:rgba(0, 0, 0, 0.7)
+}
+
+
+
+
+#title-news {
+    font-family: 'Pacifico', cursive;
+}
+
+#story-title {
+    font-family: 'Pacifico', serif;
+}
+
+#title-ableism {
+    font-family: 'Roboto Slab', serif;
+}
+
+#rating {
+    font-family: 'Merriweather', serif;
+}
